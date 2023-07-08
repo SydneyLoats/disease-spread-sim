@@ -1,5 +1,5 @@
 
-# Disease Simulation Project building and running instructions.
+# Disease Simulation Project
 
 ## Files
 `finalProjectWriteup.pdf` is the project writeup.  
